@@ -17,8 +17,8 @@ A função `calculadora` realiza as seguintes operações:
 Antes de começar, certifique-se de ter o Node.js instalado na sua máquina.
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/agripe049/trabalhoJest.git
+cd trabalhoJest
 
 Instale as dependências executando o comando 'npm install'.
  E para rodar os testes automatizados com Jest, use o seguinte comando: 'npm test'.
